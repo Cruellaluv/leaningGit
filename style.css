@@ -1,0 +1,17 @@
+body {
+  background-color:blanchedalmond;
+}
+
+h1 {
+  font-size:40px;
+  font-family:cursive;
+}
+
+p {
+  text-decoration:underline;
+}
+
+img {
+  width:350px;
+  border-radius: 40px;
+}
